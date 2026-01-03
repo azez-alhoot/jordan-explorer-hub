@@ -1,0 +1,5 @@
+# MINIMAL .htaccess for testing
+# Only use this AFTER site works without .htaccess
+
+DirectoryIndex index.html
+
